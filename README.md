@@ -1,16 +1,18 @@
-# Buldge Distortion Effect
+# Bulge Distortion Effect
+
+Bulge distortion effect experiment using JavaScript, WebGL, Shaders, OGL, Sass, and Vite for build structure.
 
 <!-- [![Website Preview](preview.png)](https://your-website-url.com) -->
 
-Cover page transition experiment using plain HTML, CSS, JavaScript, and GSAP from GreenSock as animation library as well as some extra tools like Split Type and Vite.js for build.
+## Demo
 
-<!-- ## [See it live](https://) -->
+<!-- ## [See it live](https://your-website-url.com) -->
 
 ## Installation
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/peperini/cover-page-transition.git`
+1. Clone the repository: `git clone https://github.com/peperini/webgl-bulg-distortion-effect.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
