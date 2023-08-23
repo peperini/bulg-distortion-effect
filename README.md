@@ -1,59 +1,33 @@
-![Capture d'écran 2023-03-08 111701](https://user-images.githubusercontent.com/5593293/223686426-3b6aaeca-3b4b-41f6-bf00-0655fc05ac56.png)
+# Buldge Distortion Effect
 
+<!-- [![Website Preview](preview.png)](https://your-website-url.com) -->
 
+Cover page transition experiment using plain HTML, CSS, JavaScript, and GSAP from GreenSock as animation library as well as some extra tools like Split Type and Vite.js for build.
 
-# Vite template builder to quickly generate 2D shaders in the browser.
+<!-- ## [See it live](https://) -->
 
-This repository will help create custom 2D shaders quickly using the [OGL](https://github.com/oframe/ogl) library, a small, effective WebGL library. It is powered by [Vite](https://vitejs.dev/guide/why.html) ⚡️ that quickly compiles anything you need, it is also including [Sass](https://sass-lang.com/guide), [Babel](https://babeljs.io/), [Eslint](https://eslint.org/), [Prettier](https://prettier.io/), [lil-gui](https://www.npmjs.com/package/lil-gui) and [GSAP](https://greensock.com/docs/) for animations.
+## Installation
 
-## [See it live](https://robpayot.github.io/vite-2d-shader-template/)
+To run this project locally, follow these steps:
 
-## How to install
+1. Clone the repository: `git clone https://github.com/peperini/cover-page-transition.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
 
-Clone the repository or download it in zip format, then
+## Technologies Used
 
-### Open Terminial
-
-Navigate to projects folder
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the dev server
-
-```bash
-  npm run dev
-```
-
-### Build Project
-
-To build for production
-
-```bash
-  npm run build
-```
-
-## How to Use
-
--   Use the 'src' folder for all project files.
-    -   HTML
-    -   JS
-    -   SCSS
--   vite.config.js file sets up project input to 'src' folder.
--   Use eslintrc file to configure linting rules
--   Use prettierrc file to configure formatting rules
-
-## Useful links
-- [OGL docs](https://github.com/oframe/ogl)
-- Everything to know about shaders: [The book of shaders](https://thebookofshaders.com/)
-- [GSAP docs](https://greensock.com/docs/)
-- [Vite docs](https://vitejs.dev/config/)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
+- OGL
+- WebGL
+- GSAP (GreenSock)
+- Vite.js
+- Sass
 
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Contact
+
+If you have any questions or comments regarding this project, feel free to reach out to me:
+
+- Email: josearmando.zara@gmail.com
