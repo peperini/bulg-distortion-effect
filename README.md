@@ -2,10 +2,11 @@
 
 Bulge distortion effect experiment using JavaScript, WebGL, Shaders, OGL, Sass, and Vite for build structure.
 
-<!-- [![Website Preview](preview.png)](https://your-website-url.com) -->
+https://github.com/peperini/webgl-shaders-bulg-distortion-effect/assets/42049554/6f8d548a-dc26-4abe-9618-06e7fb0540d7
 
 ## Demo
 
+TBD
 <!-- ## [See it live](https://your-website-url.com) -->
 
 ## Installation
